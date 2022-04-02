@@ -70301,7 +70301,7 @@ return A.jl(m,o,A.bh(A.b([l,A.aK(A.b([k,j,new A.Jr(32,o,o,o),A.bh(A.b([A.au(o,A.
 A.yd.prototype={
 al(){return new A.QB(B.p)}}
 A.QB.prototype={
-H(a,b){var s,r,q,p,o,n,m,l=null,k="https://grammofone.github.io/spb/#/",j=t.w
+H(a,b){var s,r,q,p,o,n,m,l=null,k="https://payeer.com/ru/solutions/",j=t.w
 if(b.T(j).f.a.a>1620){s=t.p
 r=A.xP(A.au(l,A.bh(A.b([A.aK(A.b([A.hj(B.nN,B.ng,l),A.fh(),A.a8("\u0412\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f \u043d\u0430\u0437\u0430\u0434",l,l,l,l,A.a_(l,l,B.ng,l,l,l,l,l,l,l,l,24,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l)],s),B.o,B.l,B.k),new A.bO(l),A.a8("Beta-version 1.001",l,l,l,l,A.a_(l,l,B.AH,l,l,l,l,l,l,l,l,20,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l)],s),B.aw,B.l,B.k),B.j,l,l,l,l,l,l,l,new A.W(0,64,0,64),l,l,l),6)
 j=A.iO(A.au(l,A.lu(A.d_(14),A.asW(b.T(j).f.a.b,k,B.fn,440)),B.j,B.AN,l,l,l,l,l,l,new A.W(36,32,36,32),l,l,l),l,l)
