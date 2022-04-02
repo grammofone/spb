@@ -551,6 +551,7 @@ const RESOURCES = {
 "assets/assets/icons/zip_outline_28.svg": "b161da768e378ade770157c92d988497",
 "assets/assets/images/apple.png": "f0371e51c9e5bd470b9ad96eafccc881",
 "assets/assets/images/basket.png": "9cbb41c990c5f6e814d0df40caa3b716",
+"assets/assets/images/google.png": "837dff38123c876ee3c88bf003adb76d",
 "assets/assets/images/inbox_outline_56.svg": "ef904d9b0a430e2fe4700253c9b9fd83",
 "assets/assets/images/masks_outline_32.svg": "3bae6381e09d604136a9689a28c92f5e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -566,9 +567,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e8458848821649bf5d8522c20808e405",
-"/": "e8458848821649bf5d8522c20808e405",
-"main.dart.js": "ce67a457cebabb81e0f4a2a2e790a28e",
+"index.html": "106eab0147c93f8768e8cb7d565d96e8",
+"/": "106eab0147c93f8768e8cb7d565d96e8",
+"main.dart.js": "ddde10ab7a1283e3efa4881492e468a4",
 "manifest.json": "66f3056d94a878a99aadbfe845af396e",
 "version.json": "b15ede7573cd8a8c47d8d1d14586050a"
 };
