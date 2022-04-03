@@ -70089,7 +70089,7 @@ H(a,b){var s=null,r=A.c6(),q=A.dL(!0,s),p=A.c6(),o=A.dL(!0,s),n=A.c6(),m=t.p,l=A
 r=A.bf(A.b([r,q,p,o,n,l,k,j,i,new A.Jp(s,"\u0412\u043e\u0439\u0442\u0438 \u0447\u0435\u0440\u0435\u0437 Google",s,56,s,!1,!0,!0,new A.aeR(b),s)],m),B.o,B.l,B.k)
 q=t.w
 if(b.R(q).f.a.b<816)p=16
-else p=b.R(q).f.a.b<860?b.R(q).f.a.b*0.08:b.R(q).f.a.b*0.16
+else p=b.R(q).f.a.b<830?b.R(q).f.a.b*0.08:b.R(q).f.a.b*0.16
 return A.jl(s,s,A.bf(A.b([r,new A.ek(new A.as(0,1/0,p,b.R(q).f.a.b),s,s),A.arX(s,s,"\u0412\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f \u043d\u0430\u0437\u0430\u0434")],m),B.o,B.l,B.k),s,"assets/images/basket.png",!1,!1,!0,!1,!1,!1,!1,!0,!0,s,s,s)}}
 A.aeO.prototype={
 $1(a){var s=this.a
